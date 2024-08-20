@@ -1,7 +1,3 @@
-Here's the revised README content with the specified files:
-
----
-
 # Pizza Sales Analysis
 
 ## 📊 Project Overview
